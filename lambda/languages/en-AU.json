@@ -1,0 +1,21 @@
+{
+    "SKILL_NAME": "the Dabble Google Sheets Example",
+    "HELP": [
+      "This is a simple skill demonstrating the integration of google sheets with an Alexa Skill."
+    ],
+    "HELP_REPROMPT": [
+      "What would you like to do?"
+    ],
+    "FALLBACK": [
+      "Sorry, I didn't understand that. What would you like to do?"
+    ],
+    "FALLBACK_REPROMPT": [
+      "What would you like to do?"
+    ],
+    "CANCEL_STOP_RESPONSE": [
+      "Good bye",
+      "Okay. I'll be here if you need me."
+    ],
+    "ERROR": "Sorry, I wasn't able to handle your last request. Could you say that again?",
+    "ERROR_REPROMPT": "Could you say that again?"
+}
