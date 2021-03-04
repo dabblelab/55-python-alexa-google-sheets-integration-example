@@ -17,7 +17,7 @@ import json
 import random
 import gspread
 
-sheet_url = "https://docs.google.com/spreadsheets/d/1Pq3tM1WQ0N7x5TvTYS7Q5q4kEs6QtTQrSlqNDNli__0"
+sheet_url = ""
 gc = gspread.service_account(filename = 'credentials.json')
 sh = gc.open_by_url(sheet_url)
 
